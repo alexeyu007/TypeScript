@@ -22,3 +22,8 @@ if (a === 7) {
     console.log("dentro del if: " + a_1 + "-" + b);
 }
 console.log("fuera del if: " + a + "-" + b);
+// funciones 
+function devuelveNumero(numero) {
+    return numero;
+}
+alert("lalalala :" + devuelveNumero(43));

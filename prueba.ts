@@ -37,3 +37,12 @@ console.log("dentro del if: "+ a +"-"+b);
 }
 
 console.log("fuera del if: "+a+"-"+b);
+
+// funciones 
+
+function devuelveNumero (numero:number ){
+
+ return numero;
+}
+
+alert("lalalala :" + devuelveNumero(43));
